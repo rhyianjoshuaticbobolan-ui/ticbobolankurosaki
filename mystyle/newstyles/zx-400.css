@@ -207,7 +207,7 @@ body {
 
 .bike-container {
   max-width: 90%;
-  height: 700px;
+  height: 800px;
   background: linear-gradient(145deg, #012c2c, #014a4a);
   margin: 0 auto 40px auto;
   padding: 50px;
@@ -559,4 +559,5 @@ body {
 
 .backtext:hover {
   animation: glowPulse 1s infinite alternate;
+
 }
