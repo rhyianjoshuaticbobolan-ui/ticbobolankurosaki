@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
 body {
             background-color: #0a0f0a;
             background-image:
@@ -816,3 +818,4 @@ body {
                 filter: blur(0);
             }
         }
+
